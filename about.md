@@ -2,9 +2,4 @@
 layout: page
 title: About
 ---
-
-<p class="message">
- Bla
-</p>
-
-blaaaa
+# This page is going to hold the personal information of me.
