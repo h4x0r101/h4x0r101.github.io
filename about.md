@@ -11,6 +11,8 @@ title: About
 
 Hack the Box Profile : 
 
-<script src="https://www.hackthebox.eu/badge/380"></script>
+<div>
+  <script src="https://www.hackthebox.eu/badge/380"></script>
+</div> 
 
 
