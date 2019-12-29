@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Testing the posts"
+categories: [testing, hackthebox]
 ---
 
 # Welcome
