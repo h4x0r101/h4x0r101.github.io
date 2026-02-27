@@ -4,7 +4,7 @@ title:  "Awesome Vulnerable Goat Projects"
 categories: [VulnApps,Learn Pentesting]
 ---
 
-<img src="/assets/Goat.png" width="100" align="center" />
+<img src="/assets/Goat.jpg" width="100" height="100" align="center" />
 
 Here is a list of intentionally vulnerable applications by design to make the learning curve easy for information security enthusiasts. These projects are maintained by OWASP and independent researchers and developers. They call these projects “Goat Projects”.
 
