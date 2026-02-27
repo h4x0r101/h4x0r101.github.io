@@ -5,7 +5,7 @@ title: About Me
 <img src="/assets/mypic.png" width="100" align="center" />
 #### Welcome to h4x0r101 ,
 
-Professional Summary : </br>
+Professional Summary :</br>
 
 3+ years of experience as Senior Application Security Engineer in Canada (2022-2026) - WestJet Airlines
 9 years of experience as Cyber Security Consultant in India (2013-2022) - EY, Synopsys
